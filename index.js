@@ -7,7 +7,7 @@ const random = Math.floor(Math.random() *105 ) +1 ;
 
 let num3 = 12;
 let num4 = 8;
-const mod = (12 % 8);
+const mod = (16 % 12);
 
 const max = (4,8,15,20);
 
